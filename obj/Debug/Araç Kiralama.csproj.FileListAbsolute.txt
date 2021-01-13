@@ -1,0 +1,10 @@
+D:\VB\Araç Kiralama\bin\Debug\Araç Kiralama.exe.config
+D:\VB\Araç Kiralama\bin\Debug\Araç Kiralama.exe
+D:\VB\Araç Kiralama\bin\Debug\Araç Kiralama.pdb
+D:\VB\Araç Kiralama\obj\Debug\Araç Kiralama.csprojAssemblyReference.cache
+D:\VB\Araç Kiralama\obj\Debug\Araç_Kiralama.Form1.resources
+D:\VB\Araç Kiralama\obj\Debug\Araç_Kiralama.Properties.Resources.resources
+D:\VB\Araç Kiralama\obj\Debug\Araç Kiralama.csproj.GenerateResource.cache
+D:\VB\Araç Kiralama\obj\Debug\Araç Kiralama.csproj.CoreCompileInputs.cache
+D:\VB\Araç Kiralama\obj\Debug\Araç Kiralama.exe
+D:\VB\Araç Kiralama\obj\Debug\Araç Kiralama.pdb
